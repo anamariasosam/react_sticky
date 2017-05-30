@@ -1,0 +1,35 @@
+.App {
+  text-align: center;
+  color: #fff;
+}
+
+.container {
+  height: 150vh;
+  background-color: #C4D2C0;
+}
+
+.before {
+  background-color: #3DA08D;
+}
+
+.after {
+  background-color: #F04E43;
+}
+
+.navbar {
+  background-color: #504853;
+  height: 60px;
+}
+
+.stickyNav {
+  position: fixed;
+  top: 0;
+  height: 60px;
+  width: 100%;
+  background-color: #504853;
+}
+
+h1 {
+  margin: 0;
+  padding: 15px 0;
+}
